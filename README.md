@@ -1,4 +1,4 @@
-# avnshsingh.github.io
+# Shrinath
 
 This is a portfolio site which showcase my experience, skills and about me.
 
